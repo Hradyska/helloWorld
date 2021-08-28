@@ -1,0 +1,16 @@
+/run/media/LVH/Work/dev/helloWorld/bin/Debug/net5.0/helloWorld
+/run/media/LVH/Work/dev/helloWorld/bin/Debug/net5.0/helloWorld.deps.json
+/run/media/LVH/Work/dev/helloWorld/bin/Debug/net5.0/helloWorld.runtimeconfig.json
+/run/media/LVH/Work/dev/helloWorld/bin/Debug/net5.0/helloWorld.runtimeconfig.dev.json
+/run/media/LVH/Work/dev/helloWorld/bin/Debug/net5.0/helloWorld.dll
+/run/media/LVH/Work/dev/helloWorld/bin/Debug/net5.0/ref/helloWorld.dll
+/run/media/LVH/Work/dev/helloWorld/bin/Debug/net5.0/helloWorld.pdb
+/run/media/LVH/Work/dev/helloWorld/obj/Debug/net5.0/helloWorld.csprojAssemblyReference.cache
+/run/media/LVH/Work/dev/helloWorld/obj/Debug/net5.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/LVH/Work/dev/helloWorld/obj/Debug/net5.0/helloWorld.AssemblyInfoInputs.cache
+/run/media/LVH/Work/dev/helloWorld/obj/Debug/net5.0/helloWorld.AssemblyInfo.cs
+/run/media/LVH/Work/dev/helloWorld/obj/Debug/net5.0/helloWorld.csproj.CoreCompileInputs.cache
+/run/media/LVH/Work/dev/helloWorld/obj/Debug/net5.0/helloWorld.dll
+/run/media/LVH/Work/dev/helloWorld/obj/Debug/net5.0/ref/helloWorld.dll
+/run/media/LVH/Work/dev/helloWorld/obj/Debug/net5.0/helloWorld.pdb
+/run/media/LVH/Work/dev/helloWorld/obj/Debug/net5.0/helloWorld.genruntimeconfig.cache
